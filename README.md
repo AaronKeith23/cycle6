@@ -1,6 +1,6 @@
 Cycle 6 Project Internship Website
 
-Description: For this project, I have worked on an PHP Project,Internshit Website. Among its functionality, users are able to create accounts and show their skills that can be viewed but anyone within the computering job fields.
+Description: For this project, I have worked on an PHP Project,Internship Website. Among its functionality, users are able to create accounts and show their skills that can be viewed but anyone within the computering job fields.
 
 Dependencies: This project depends on data tables created in phpmyadmin, and the ccuresearch server.
 
